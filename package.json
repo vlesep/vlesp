@@ -1,0 +1,23 @@
+{
+  "name": "epbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "jimp": "^0.6.0",
+    "moment": "^2.23.0",
+    "ms": "^2.1.1",
+    "random-puppy": "^1.1.0",
+    "simple-youtube-api": "^5.1.1",
+    "snekfetch": "^4.0.4",
+    "superagent": "^4.1.0",
+    "urban-dictionary": "^2.2.1",
+    "ytdl-core": "^0.28.3"
+  }
+}
